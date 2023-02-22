@@ -1,3 +1,8 @@
 1. Why have you decided to learn Git and GitHub?
+I used GitHub and GH Classroom in the past and would like to become more comfortable using them correctly.
 
 2. How do you plan to use GitHub in your classroom?
+I would like all of my students to learn to use GitHub to manage their software.
+
+3. What is the most important thing for new users to know about GitHub?
+Make a new branch with a pull request and apply changes there before committing to the main branch.
